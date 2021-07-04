@@ -1,0 +1,49 @@
+.capa {
+  width: 100%;
+  height: 900px;
+  background: url("../img/capaimg.jpg");
+  background-size: cover;
+  padding-top: 0px;
+}
+.capa h1 {
+  font-size: 100px;
+  color: #ffffff;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-left: 100px;
+  padding-top: 0px;
+}
+/*.capa h1 ::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 10px;
+  background: #ffffff;
+  margin: 5px 100px;
+}
+*/
+.capa p {
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-left: 100px;
+  padding-top: 50px;
+  height: 300px;
+}
+
+.capa .btn {
+  background-color: #8c0000;
+  padding: 10px 30px;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  margin-left: 700px;
+}
+
+.capa .btn:hover {
+  border-color: #ffffff;
+}

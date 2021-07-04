@@ -1,0 +1,34 @@
+.int-sobre {
+  background: url("../img/bg-sobre.jpg") no-repeat center;
+  background-size: cover;
+  margin-top: 82.54px;
+}
+.sobre {
+  padding-top: 60px;
+}
+
+.sobre p {
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 1em;
+  padding-right: 60px;
+  padding-top: 15px;
+}
+.sobre h2 {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  color: black;
+}
+.sobre h2::after {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 3px;
+  background: #000000;
+  margin: 12px 0;
+}
+.localgh {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}

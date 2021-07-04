@@ -1,0 +1,18 @@
+.int-produtos {
+  background: url("../img/bgprodutos.jpg") no-repeat center;
+  background-size: cover;
+  margin-top: 82.54px;
+}
+
+.p-kits-intro {
+  height: 69px;
+  margin: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p-kits-img {
+  padding: 10px;
+  text-align: center;
+}
